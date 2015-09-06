@@ -19,6 +19,7 @@
         "bluebird": "^2.9.34",
         "lodash-fp": "^0.10.2"
     },
+    "license": "MIT",
     "devDependencies": {},
     "scripts": {
     }
