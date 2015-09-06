@@ -1,0 +1,17 @@
+{
+    "author": "Ghost_141",
+    "name": "bluebird-extended",
+    "description": "A extension of bluebird library",
+    "version": "0.0.1",
+    "engines": {
+        "node": ">=0.12.0"
+    },
+    "homepage": "https://github.com//bluebird",
+    "dependencies": {
+        "bluebird": "^2.9.34",
+        "lodash-fp": "^0.10.2"
+    },
+    "devDependencies": {},
+    "scripts": {
+    }
+}
