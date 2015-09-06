@@ -1,12 +1,20 @@
 {
-    "author": "Ghost_141",
+    "author": {
+        "name": "Ghost141",
+        "email": "kidd747@gmail.com",
+        "url": "https://github.com/Ghost141"
+    },
     "name": "bluebird-extended",
     "description": "A extension of bluebird library",
     "version": "0.0.1",
     "engines": {
         "node": ">=0.12.0"
     },
-    "homepage": "https://github.com//bluebird",
+    "homepage": "https://github.com/Ghost141/bluebird-extended",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:Ghost141/bluebird-extended.git"
+    },
     "dependencies": {
         "bluebird": "^2.9.34",
         "lodash-fp": "^0.10.2"
